@@ -11,4 +11,8 @@ I learn a lot of stuff related to data science skill. this boot camp
 - R Programming
 - Data Transformation
 - Data Visualization
-- Essential statistics for Data Analyze
+- Essential statistics for Data Analyst
+- Essential Machine learning for Data Analyst
+- Python programing
+- Essential Python for Data Analist
+-  
